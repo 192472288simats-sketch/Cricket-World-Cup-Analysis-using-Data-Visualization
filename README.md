@@ -1,16 +1,13 @@
 # Historical Performance Analysis of the Cricket Teams in ICC World Cups Using Python
-## 👥 Project Team
+## 👥 Project
 
-This is a group project developed as part of our Data Visualization coursework.
+This is a project developed as part of our Data Visualization coursework.
 
-| S.No. | Team Member Name | Roll Number |
-| 1 | M.Naveen Kumar |192472288|
+| S.No. | Member Name    | Roll Number |
+| 1     | M.Naveen Kumar |192472288|
 
 
 
-##  Project Guide
-
-Guide Name: Dr.B.Mahesh
 
 ## Department
 
