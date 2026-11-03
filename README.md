@@ -4,9 +4,8 @@
 This is a group project developed as part of our Data Visualization coursework.
 
 | S.No. | Team Member Name | Roll Number |
-| 1 | L.Sahithi | 24FH1A3110 |
-| 2 | B.Deepika | 24FH1A3103 |
-| 3 | P.Rajitha | 24FH1A3112  |
+| 1 | M.Naveen Kumar |192472288|
+
 
 
 ##  Project Guide
